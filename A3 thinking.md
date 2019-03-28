@@ -19,9 +19,14 @@ The breakthrough is to establish the true cause-and –effect relationships and 
 ---
 ### **7 elements of A3 thinking** 
 - Logical thinking process  
-- Objectively  
-- Results and process  
+- Objectively   
+Avoiding time-wasting arguments, ecourage to think in scientific and quantitative way  
+
+- Results and process   
+  Emphasis on both helps maintain a healthy balance  
+
 - Synthesis, distillation and  visualization
+  
 - Alignment  
 - Coherence within and consistency across
 - System viewpoint  
@@ -32,28 +37,30 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
 -	What is not happening but should be
 
 ---
-
-### **Storyline of the A3 problem solving including seven sections** 
-Theme: the theme objectively describe the problem addressed in the report   
-1. Background (key points need to be considered as follow)  
+### **Three Main Types of A3 reprots**
+   A logical order similar to PDCA  style, but emphasis a different part of cycle. Proposal focus on "Plan" part, project focus on "check" part.
+1. ### Storyline of the A3 **Problem Solving**  
+   Theme: the theme objectively describe the problem addressed in the report  
+  
+   1.1. Background (key points need to be considered as follow)  
    - Make the overall context of the situation as clear and as visual as possible
    - Identify  the target audience and write accordingly
    - Provide the necessary information that the audience needs to know before going forward
    - Explain how this topic aligns with company goals
    - Include any other information such as historical data, dates, or names that might help the audience understand the importance of this problem
 
-2. Current condition/Problem statement  
+   1.2.  Current condition/Problem statement  
    - Using chart, graphic, table while avoiding text or bulleted lists
    - For example: percent defects, hours of downtime.etc.  
 
-    Key points to be considered  
+      Key points to be considered  
     - Depict an overview of current state of process
     - Highlight the key factors
     - Identify the real problem(What is it? What is not?) 
     - Quantitative measures to depict current state
     - Summarize relevant info pertaining to current state
 
-3. Goal  
+   1.3. Goal  
    - How will we know the project is successful at the end
    - what standard or basis for comparison will be used  
 
@@ -63,7 +70,7 @@ Theme: the theme objectively describe the problem addressed in the report
    - how to collect data to late evaluate 
    - check the effectiveness of any action items 
 
-4. Root-cause analysis  
+   1.4. Root-cause analysis  
      Key points to be considered  
    - Show the root cause of problem identified in the current state
    - Separate symptoms from cause 
@@ -72,19 +79,21 @@ Theme: the theme objectively describe the problem addressed in the report
    - Summarize the main findings of root cause visually  
 
 
-5. Countermeasures  
+   1.5. Countermeasures  
    - make sure to address the potential root causes
    - Identify who will implement the countermeasures
    - Be clear what will be done
    - clarify the due date by which action will be compeleted
    - make the implementation order and location clear  
    
-6. Effect confirmation	
-7. Follow-up actions
+   1.6. Effect confirmation  
+   1.7. Follow-up actions
 
 ---
-
-### **The status of A3-Project status** 
+2. ### A3 **Proposal**  
+   2.1. 
+---
+3. ### The status of A3 **Project status** 
 - Theme  
   Summary of changes and results as an outcome of problem solving or proposal implementation  
   
@@ -108,10 +117,9 @@ Theme: the theme objectively describe the problem addressed in the report
 
 3. Results (Check phase)  
    Reflect the most important for judging the success of the projects, show more than one metric, such as quality, cost, time dimensions, (Agile:US has been done, velocity and etc..)  
-4. 
+4. Remaining issues/follow-up actions  
 
 
-   
 
 
 
