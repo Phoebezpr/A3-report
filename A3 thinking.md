@@ -140,7 +140,7 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
      - Schedule reflection meetings to evaluate progress
      - Standards for comparison make sense
      - Plan in advance for collecting data  
-  ***Note: More detail at P68~72, example at P70~72***
+  ***Note: More detail at P68 ~ 72, example at P70 ~ 72***
 
 --- 
 3. ### The storyline of A3 **Project status** 
