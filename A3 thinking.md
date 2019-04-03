@@ -41,8 +41,8 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
    A logical order similar to PDCA  style, but emphasis a different part of cycle. 
 
    ***Comparison of different A3s***  
-   | Focus     | Problem Solving | Proposal   | Project status |  
-   | -------- | ------------- | -------- | ------------ |  
+   | Focus | Problem Solving | Proposal | Project status |  
+   | ------------- | ------------- | ------------- | ------------- |  
    | Theme | Improvements    | Policies, decisions or projects with significant investment and implementation | Summary of changes, results of either problem solving or proposal implementation |  
    | Who will conduct the work | Novice continuing throughout career | Experienced personnel, manager|Novice and experienced manager |  
    | Analysis | Emphasis root-cause, quantitative analysis | Improvement based on current state, mix of quli and quanti | Less analysis, verify hypothesis and action items |  
