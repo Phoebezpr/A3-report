@@ -38,8 +38,18 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
 
 ---
 ### **Three Main Types of A3 reprots**
-   A logical order similar to PDCA  style, but emphasis a different part of cycle. Proposal focus on "Plan" part, project focus on "check" part.
+   A logical order similar to PDCA  style, but emphasis a different part of cycle. 
+
+   ***Comparison of different A3s***  
+   | Focus     | Problem Solving | Proposal  | Project status |  
+   | :--------:| :-------------: | :--------:| :------------: |  
+   | **Theme** | Improvements    | Policies, decisions or projects with significant investment and implementation |Summary of changes, results of either problem solving or proposal implementation|  
+   | **Who will conduct the work** |Novice continuing throughout career| Experienced personnel, manager|Novice and experienced manager|  
+   | **Analysis**| Emphasis root-cause, quantitative analysis| Improvement based on current state, mix of quli and quanti| Less analysis, verify hypothesis and action items|  
+   |**PDCA Cycle**| Full PDCA cycle, improvements and verifying results|Heavy focus on Plan, with check and Act embedded in implementation  plan| Heavy focus on Check and Act, confirmation of results and follow-up to complete the learning loop|  
+ 
 1. ### Storyline of the A3 **Problem Solving**  
+   Problem-solving A3 is typically written after the Plan, Do and check steps  
    Theme: the theme objectively describe the problem addressed in the report  
   
    1.1. Background (key points need to be considered as follow)  
@@ -90,34 +100,80 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
    1.7. Follow-up actions
 
 ---
-2. ### A3 **Proposal**  
-   2.1. 
+2. The storyline of A3 **Proposal**  
+   Proposal A3 is written during the Plan and before the Do step
+
+   2.1. Background  
+   - Identify the target audience and write accordingly  
+   - Provide the neccessary infor that the audience needs to know before going forward  
+   - How this topic align with the goal  
+   - Include any pretinent info (eg:historical data, dates,names that might help audience understand the importance of this problem)  
+
+   2.2. Current Condition  
+    - Clearly depict an overview of the current condition in a visiual manner  
+    - Highlight the key factors  
+    - Identify the main issues in the current state   
+    - Use quantitative measures to depict the current status  
+    - Pertaining to current condition's information   
+
+    2.3. Analysis 
+     - Show the main cause of the problem in the current state  
+     - Separate symptoms and opinions from cause and effect determination  
+     - Highlight what is wrong or what needs to be changed  
+     - Show why the current process or situation can be improved  
+     - Build a logical case  
+
+    2.4. Proposal  
+     - Clearly state the proposal  
+     - List the main alternatives that are up for consideration  
+     - Evaluate the alternatives in some fashion, ideally quantitative 
+     - Identify the most suitable path for moving forward  
+     - Give a clear reason why this option is the best
+
+    2.5. Plan details  
+     - Major action items  
+     - Who will be involved and where the implementation will take place
+     - Establish the basic timing for schedule item  
+     - Include how progress will be checked
+     - Schedule reflection meetings to evaluate progress
+     - Standards for comparison make sense
+     - Plan in advance for collecting data  
+  ***Note: More detail at P68~70, example at P72~73***
+
 ---
-3. ### The status of A3 **Project status** 
-- Theme  
-  Summary of changes and results as an outcome of problem solving or proposal implementation  
-  
-- who is conducting the work  
-  Both novice and experienced managers
+3. ### The storyline of A3 **Project status** 
+ 
+    3.1. Background   
+    -  Identify the target audience and write accordingly (In Agile development, you can involve team members and stakeholders)  
+    - Provide the necessary information that audience need to know before going forward  
+    - Explian how this topic align with goals  
+    - Include any pertaining information 
 
-- Analysis  
-  More focus on verification of hypothesis and action items
-
-- PDCA  
-  Heavy focus on Check and Act, including confirmation of resukts bad follow-up to compelet learning loop
-
-
-**Storyline of the status A3**  
-1. Background   
-   High-Level overview
-2. Current condition   
-   Any change (old feature state has now become the current state) should have already occured  in the new state.  
-***Example:***   
+    3.2. Current condition   
+   In state A3, which invloves any change (old feature state has now become the current state) should have already occured  in the new state.   
+   - Clearly depict an overview of the current condition, it would be better if show the before and after states for clearity.  
+   - Outline the work that has been performed with respect to timelines and objectives when there is no signifcantly changes
+   - Apply quantitative measures as much as possible to depict the current states
+   - If additional information is needed to supplement the material in A3 
+    ***Example:***   
  Burndown chart to represent the set of activities over an iteration (before and after state for clarity)  
+Demonstrate the US that has been completed in the current sprint, which are comply with estimation
 
-3. Results (Check phase)  
-   Reflect the most important for judging the success of the projects, show more than one metric, such as quality, cost, time dimensions, (Agile:US has been done, velocity and etc..)  
-4. Remaining issues/follow-up actions  
+    3.3. Results (Check phase) 
+    - Use the metrics which are best evaluating progress
+    - Make sure the metrics are objective and quantified
+    - Present a balanced set of metrics to show the improvement in one area has not been offset in another
+    - Accuracy
+    - Strive to show what has and whay has not improved  
+  
+   Reflect the most important for judging the success of the projects, show more than one metric, such as quality, cost, time dimensions, (Agile: US has been done, velocity and etc..)  
+
+    3.4. Remaining issues/follow-up actions  
+    - Highlight what actions still need to be completed to finish the project
+    - If some results are not in line with expectations, ask why and details either the next step to get to the root cause
+    - Consider what impediments and unresolved issues might still exist and what works needs to be done with respect to those items
+    - Consider whether any other stakeholders may be affected 
+    - Consider unresolved issues related to budget, training and etc..
 
 
 
@@ -125,6 +181,7 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
 
 
 ---
+## Markdown Scripts ##
 ### Bullet
 - 111
 - 2222
