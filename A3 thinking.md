@@ -43,10 +43,10 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
    ***Comparison of different A3s***  
    | Focus     | Problem Solving | Proposal   | Project status |  
    | :--------:| :-------------: | :--------: | :------------: |  
-   | **Theme** | Improvements    | Policies, decisions or projects with significant investment and implementation | Summary of changes, results of either problem solving or proposal implementation |  
-   | **Who will conduct the work** | Novice continuing throughout career | Experienced personnel, manager|Novice and experienced manager |  
-   | **Analysis** | Emphasis root-cause, quantitative analysis | Improvement based on current state, mix of quli and quanti | Less analysis, verify hypothesis and action items |  
-   | **PDCA Cycle** | Full PDCA cycle, improvements and verifying results | Heavy focus on Plan, with check and Act embedded in implementation  plan | Heavy focus on Check and Act, confirmation of results and follow-up to complete the learning loop |  
+   | Theme | Improvements    | Policies, decisions or projects with significant investment and implementation | Summary of changes, results of either problem solving or proposal implementation |  
+   | Who will conduct the work | Novice continuing throughout career | Experienced personnel, manager|Novice and experienced manager |  
+   | Analysis | Emphasis root-cause, quantitative analysis | Improvement based on current state, mix of quli and quanti | Less analysis, verify hypothesis and action items |  
+   | PDCA Cycle | Full PDCA cycle, improvements and verifying results | Heavy focus on Plan, with check and Act embedded in implementation  plan | Heavy focus on Check and Act, confirmation of results and follow-up to complete the learning loop |  
  
 1. ### Storyline of the A3 **Problem Solving**  
    Problem-solving A3 is typically written after the Plan, Do and check steps  
