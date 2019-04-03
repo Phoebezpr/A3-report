@@ -140,9 +140,9 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
      - Schedule reflection meetings to evaluate progress
      - Standards for comparison make sense
      - Plan in advance for collecting data  
-  ***Note: More detail at P68~70, example at P72~73***
+  ***Note: More detail at P68~72***
 
----
+--- 
 3. ### The storyline of A3 **Project status** 
  
     3.1. Background   
@@ -156,7 +156,8 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
    - Clearly depict an overview of the current condition, it would be better if show the before and after states for clearity.  
    - Outline the work that has been performed with respect to timelines and objectives when there is no signifcantly changes
    - Apply quantitative measures as much as possible to depict the current states
-   - If additional information is needed to supplement the material in A3 
+   - If additional information is needed to supplement the material in A3  
+
     ***Example:***   
  Burndown chart to represent the set of activities over an iteration (before and after state for clarity)  
 Demonstrate the US that has been completed in the current sprint, which are comply with estimation
