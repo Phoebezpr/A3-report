@@ -42,7 +42,7 @@ Promote objectively, encourage synthesis and distillation of most relevant infor
 
    ***Comparison of different A3s***  
    
-   ---
+   
    | Focus | Problem Solving | Proposal | Project status |  
    | ------------- | ------------- | ------------- | ------------- |  
    | Theme | Improvements    | Policies, decisions or projects with significant investment and implementation | Summary of changes, results of either problem solving or proposal implementation |  
